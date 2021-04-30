@@ -1,0 +1,25 @@
+{
+  "name": "Privacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build build/tailwind.css -o tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YetiSoftware/Privacy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YetiSoftware/Privacy/issues"
+  },
+  "homepage": "https://github.com/YetiSoftware/Privacy#readme",
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.5",
+    "tailwindcss": "^2.1.2"
+  }
+}
